@@ -1,0 +1,15 @@
+C:\VisualStudio2022\C#\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.exe
+C:\VisualStudio2022\C#\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.deps.json
+C:\VisualStudio2022\C#\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.runtimeconfig.json
+C:\VisualStudio2022\C#\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.dll
+C:\VisualStudio2022\C#\CustomLinkedList\bin\Debug\net6.0\ref\CustomLinkedList.dll
+C:\VisualStudio2022\C#\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.pdb
+C:\VisualStudio2022\C#\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.AssemblyReference.cache
+C:\VisualStudio2022\C#\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio2022\C#\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\VisualStudio2022\C#\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfo.cs
+C:\VisualStudio2022\C#\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\VisualStudio2022\C#\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.dll
+C:\VisualStudio2022\C#\CustomLinkedList\obj\Debug\net6.0\ref\CustomLinkedList.dll
+C:\VisualStudio2022\C#\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.pdb
+C:\VisualStudio2022\C#\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.genruntimeconfig.cache
